@@ -1,0 +1,11 @@
+<resources>
+    <style name="Base.Theme.ObjectDetector" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/almost_black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/medium_gray</item>
+        <item name="colorSecondaryVariant">@color/dark_gray</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
